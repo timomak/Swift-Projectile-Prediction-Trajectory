@@ -1,8 +1,9 @@
 # Swift-Projectile-Prediction-Trajectory
 
+### What is it:
 Create a prediction trajectory using this code. Emulate the effect created by games such as angry birds; in which they show where the projectile is going to move after release.
 
-Creators: Michael Loubier & Timofey Makhlay
+### Creators: Michael Loubier & Timofey Makhlay
 
 This code has been implemented into a game called AlienEscape. 
 iTunes Link: https://itunes.apple.com/us/app/alien-escape-best-app-to-take-revenge-on-aliens/id1268172911?mt=8
