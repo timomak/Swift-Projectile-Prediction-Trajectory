@@ -11,7 +11,7 @@ There are many ways to go about creating a Projectile Trajectory, but most of th
 
 Well known games such as Angry Birds were able to achieve the same effect trhough already pre-made tools within software such as Unity; tools that are not avaliable in xCode.
 
-How to use:  
+### How to use:  
 
 The "Projectile-Prediction-Trajectory.swift" file will contain the necessary code to create your Projectile Prediction Trajectory line.
 
