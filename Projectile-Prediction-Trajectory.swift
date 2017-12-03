@@ -9,8 +9,8 @@ For the code to be functional, you must provide the following:
 Initial Position (meters)
 time (seconds)
 angle (degrees)
-gravity (meters / seconds)
-Initial Velocity (meters / seconds)
+gravity (meters / second)
+Initial Velocity (meters / second)
 */
 
 func projectilePredictionPath (initialPosition: CGPoint, time: CGFloat, angle1: CGFloat, gravity: CGFloat, initialVelocity: CGFloat) -> CGPoint {
